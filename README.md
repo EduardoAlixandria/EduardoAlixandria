@@ -1,10 +1,15 @@
 ### Oi! Eu sou o João Eduardo
 
-- 🔭 Atualmente trabalho como Auxiliar de Qualidade.
-- 🌱 Estudo Analise e Desenvolvimento de sistemas pela Uninter.
-- 💬 Estudei 3 anos no curso de licenciatura em matemática do IFSP.
-- 📫 Posso dizer que sou apaixonado pela tecnologia.
-- 😄 Pronomes: Ele/Dele
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://media.tenor.com/PtIjIUx-Wt0AAAAi/festquali-menino-da-qualidade.gif"> Atualmente trabalho como Auxiliar de Qualidade.
+ 
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://media3.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif?cid=ecf05e4710yw3masbiodfbd4r8vae6phi212qr7ixnl42auz&rid=giphy.gif&ct=g"> Estudo Analise e Desenvolvimento de sistemas pela Uninter.
+ 
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://media.tenor.com/PtIjIUx-Wt0AAAAi/festquali-menino-da-qualidade.gif"> 3 anos no curso de licenciatura em matemática do IFSP.
+
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://media.tenor.com/PtIjIUx-Wt0AAAAi/festquali-menino-da-qualidade.gif"> Posso dizer que sou apaixonado pela tecnologia.
+ 
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://media.tenor.com/PtIjIUx-Wt0AAAAi/festquali-menino-da-qualidade.gif"> Pronomes: Ele/Dele
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
